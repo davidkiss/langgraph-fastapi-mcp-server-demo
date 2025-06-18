@@ -2,7 +2,7 @@
 
 This is a sample project that turns a shopping list FastAPI app into an MCP server and connects a LangGraph based chatbot to the MCP server so that it can manage the user's shopping list via chat.
 
-[![Watch the video](docs/langgraph-fastapi-mcp-server-demo.jpg)](docs/langgraph-fastapi-mcp-server-demo.mp4)
+[![Watch the video](docs/langgraph-fastapi-mcp-server-demo.jpg)](https://davidkiss.github.io/langgraph-fastapi-mcp-server-demo/docs/langgraph-fastapi-mcp-server-demo.mp4)
 
 ## Technology Stack
 
