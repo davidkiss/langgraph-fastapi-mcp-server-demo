@@ -1,0 +1,22 @@
+[project]
+name = "langgraph-fastapi-mcp-server-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "alembic>=1.16.2",
+    "fastapi>=0.115.13",
+    "fastapi-mcp>=0.3.4",
+    "gradio>=5.34.1",
+    "langchain-mcp-adapters>=0.1.7",
+    "langchain-openai>=0.2.0",
+    "langchain-core>=0.3.0",
+    "langgraph>=0.4.8",
+    "psycopg2-binary>=2.9.10",
+    "pydantic>=2.11.7",
+    "python-dotenv>=1.1.0",
+    "sqlalchemy>=2.0.41",
+    "uvicorn>=0.34.3",
+    "langchain>=0.3.25",
+]
