@@ -13,10 +13,10 @@ dependencies = [
     "langchain-openai>=0.2.0",
     "langchain-core>=0.3.0",
     "langgraph>=0.4.8",
-    "psycopg2-binary>=2.9.10",
     "pydantic>=2.11.7",
     "python-dotenv>=1.1.0",
-    "sqlalchemy>=2.0.41",
+    "sqlalchemy[asyncio]>=2.0.41",
     "uvicorn>=0.34.3",
     "langchain>=0.3.25",
+    "aiosqlite>=0.21.0",
 ]
